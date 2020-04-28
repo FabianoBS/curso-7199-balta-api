@@ -1,0 +1,16 @@
+C:\Git\Todo\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+C:\Git\Todo\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Git\Todo\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Git\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+C:\Git\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Git\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+C:\Git\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+C:\Git\Todo\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Git\Todo\API\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+C:\Git\Todo\API\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Git\Todo\API\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Git\Todo\API\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+C:\Git\Todo\API\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Git\Todo\API\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+C:\Git\Todo\API\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+C:\Git\Todo\API\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb
